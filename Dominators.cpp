@@ -1,3 +1,5 @@
+//uva 11902 Dominators
+
 #include <bits/stdc++.h>
 
 #define ll long long
